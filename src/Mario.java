@@ -36,6 +36,8 @@ public class Mario extends MovingImage {
 		vY += 0.3;
 		
 		super.y += vY;
+		
+		System.out.println("TEST");
 	}
 
 
